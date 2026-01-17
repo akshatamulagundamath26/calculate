@@ -1,4 +1,4 @@
-from simple_interest import calculate_simple_interest
+from calculate_simple_interest import calculate_simple_interest
 
 
 def test_simple_interest_basic():
